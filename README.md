@@ -72,5 +72,5 @@ Monitors customer losses and potential retention risks.
 
 https://github.com/EbhoriaM/Aurora_Dashboard/blob/main/Aurora_Screenshot.png
 
-Dashboard Link
-
+#### Dashboard Link
+https://github.com/EbhoriaM/Aurora_Dashboard/blame/main/Aurora_Dashboard.pbit
