@@ -4,7 +4,7 @@
 
 Aurora Retail & Digital Services Ltd. faces several business challenges, including profit volatility, missed revenue targets, and emerging customer churn. Traditional reporting methods often rely on static reports and visualizations, making it difficult for decision-makers to identify business risks and respond to performance changes promptly.
 
-This project focuses on developing an executive-level Business Intelligence (BI) dashboard that combines key business performance indicators with AI-generated, business-friendly explanations of performance.
+This project focuses on developing an executive-level Business Intelligence (BI) dashboard that combines key business performance indicators, business-friendly explanations of performance.
 
 The solution is designed to transform business data into actionable insights, helping executives understand what is happening, why it matters, and what actions they should consider taking.
 
